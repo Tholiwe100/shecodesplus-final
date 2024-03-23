@@ -11,7 +11,7 @@ a {
   background: lightblue;
   max-width: 600px;
   margin: 45px auto;
-  box-shadow: 0 30px 50px red;
+  box-shadow: 0 30px 50px yellow;
   border-radius: 16px;
   padding: 30px;
 }
